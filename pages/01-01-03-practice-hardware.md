@@ -2,11 +2,11 @@
 
 #### SO ARM101
 
-![SO101_Leader.webp](%EC%8B%A4%EC%8A%B5%20%EC%9E%A5%EB%B9%84%20%EC%86%8C%EA%B0%9C/SO101_Leader.webp)
+![SO101_Leader.webp](../assets/SO101_Leader.webp)
 
 SO ARM101 Leader Arm
 
-![SO101_Follower.webp](%EC%8B%A4%EC%8A%B5%20%EC%9E%A5%EB%B9%84%20%EC%86%8C%EA%B0%9C/SO101_Follower.webp)
+![SO101_Follower.webp](../assets/SO101_Follower.webp)
 
 SO ARM101 Follower Arm
 
