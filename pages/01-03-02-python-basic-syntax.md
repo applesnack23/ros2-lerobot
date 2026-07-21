@@ -137,10 +137,10 @@ stop()
 예를 들어 drive() 함수가 호출되면 자동차의 속도를 50으로 변경합니다.
 
 ```bash
-mkdir Project/Car
+mkdir -p project/Car
 ```
 
-실습을 하기 위해 터미널에서 Project 폴더로 이동 합니다.
+실습을 하기 위해 터미널에서 project 폴더로 이동 합니다.
 
 ```bash
 gnome-text-editor car.py

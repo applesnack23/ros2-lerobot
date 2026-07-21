@@ -22,7 +22,7 @@ LeRobot은 Python 기반으로 개발되었으며, 다른 Python Project와 Pack
 
 ```bash
 cd ~
-mkdir project/rosws
+mkdir -p project/rosws
 cd project/rosws
 ```
 
