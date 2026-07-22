@@ -68,10 +68,12 @@
   * [3-2-10. Action Server Node](pages/03-02-10-action-server-node.md)
   * [3-2-11. Action Client Node](pages/03-02-11-action-client-node.md)
 
-* [3-3. ROS 2 기반 직접 제어](pages/03-03-ros2-direct-control.md)
-  * [3-3-1. ROS 2 기반 직접 제어 준비](pages/03-03-01-ros2-direct-control-preparation.md)
-  * [3-3-2. 패키지: so_arm101_driver](pages/03-03-02-so-arm101-driver-package.md)
-  * [3-3-3. 패키지: so_arm101_pick_place](pages/03-03-03-so-arm101-pick-place-package.md)
+* [3-3. ROS2 기반 직접 제어](pages/03-03-ros2-direct-control.md)
+  * [3-3-1. ROS2 기반 직접 제어 준비](pages/03-03-01-ros2-direct-control-preparation.md)
+  * [3-3-2. so_arm101_driver 패키지: feetech_driver_node](pages/03-03-02-feetech-driver-node.md)
+  * [3-3-3. so_arm101_pick_place 패키지: teaching_node](pages/03-03-03-teaching-node.md)
+  * [3-3-4. so_arm101_pick_place 패키지: playback_node](pages/03-03-04-playback-node.md)
+  * [3-3-5. so_arm101_pick_place 패키지: auto_pick_place_node](pages/03-03-05-auto-pick-place-node.md)
   
 * [4-1. URDF / Xacro](pages/04-01-urdf-xacro.md)
   * [4-1-1. URDF란?](pages/04-01-01-what-is-urdf.md)
