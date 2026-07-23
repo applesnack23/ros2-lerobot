@@ -148,7 +148,7 @@ sudo apt upgrade
 
 ---
 
-![image.png](Ubuntu%20Package%20Terminator/image%202.png)
+![image.png](../assets/UbuntuTerminator/image%202.png)
 
 ```bash
 sudo apt update
