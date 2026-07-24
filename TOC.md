@@ -105,13 +105,11 @@
   * [4-3-9. RViz2 Axes 이해](pages/04-03-09-rviz2-axes.md)
 
 * [4-4. ros2_control 기반 실제 로봇 제어](pages/04-04-ros2-control-real-robot.md)
-  * [4-4-1. ros2_control 소개](pages/04-04-01-ros2-control-overview.md)
-  * [4-4-2. Controller 구성](pages/04-04-02-controller-configuration.md)
-  * [4-4-3. Launch와 Robot Description 구성](pages/04-04-03-launch-and-robot-description.md)
-  * [4-4-4. SO-ARM101 Hardware Interface](pages/04-04-04-so-arm101-hardware-interface.md)
-  * [4-4-5. Hardware Plugin과 Build 설정](pages/04-04-05-hardware-plugin-and-build.md)
-  * [4-4-6. ros2_control 실행과 동작 확인](pages/04-04-06-ros2-control-execution.md)
-  * [4-4-7. ros2_control 기반 Pick & Place](pages/04-04-07-ros2-control-pick-place.md)
+  * [4-4-1. ros2_control](pages/04-04-01-ros2-control.md)
+  * [4-4-2. SO-ARM101 Hardware 환경 구성](pages/04-04-02-so-arm101-hardware-environment.md)
+  * [4-4-3. SO-ARM101 Hardware 제작](pages/04-04-03-so-arm101-hardware-development.md)
+  * [4-4-4. Build & Run](pages/04-04-04-build-and-run.md)
+  * [4-4-5. Pick & Place](pages/04-04-05-pick-and-place.md)
 
 * [4-5. Gazebo Simulation](pages/04-05-gazebo-simulation.md)
   * [4-5-1. Gazebo 설치](pages/04-05-01-gazebo-installation.md)
