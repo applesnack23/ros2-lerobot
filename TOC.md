@@ -113,10 +113,13 @@
 
 * [4-5. Gazebo Simulation](pages/04-05-gazebo-simulation.md)
   * [4-5-1. Gazebo 설치](pages/04-05-01-gazebo-installation.md)
-  * [4-5-2. Gazebo Simulator 기본 구조](pages/04-05-02-gazebo-basic-structure.md)
-  * [4-5-3. Gazebo 환경 구성](pages/04-05-03-gazebo-environment-configuration.md)
-  * [4-5-4. SO-ARM101과 Gazebo 연동](pages/04-05-04-so-arm101-gazebo-integration.md)
-  * [4-5-5. 실제 로봇과 Gazebo 제어 비교](pages/04-05-05-real-vs-gazebo.md)
+  * [4-5-2. Gazebo 환경 구성](pages/04-05-02-gazebo-environment-configuration.md)
+  * [4-5-3. 실제 로봇과 Gazebo의 제어 구조](pages/04-05-03-real-and-gazebo-control-architecture.md)
+  * [4-5-4. 실제 로봇용 ros2_control](pages/04-05-04-real-robot-ros2-control.md)
+  * [4-5-5. Gazebo용 ros2_control](pages/04-05-05-gazebo-ros2-control.md)
+  * [4-5-6. Gazebo 제어용 Launch 파일](pages/04-05-06-gazebo-control-launch-file.md)
+  * [4-5-7. ros2_control Controller 정의](pages/04-05-07-ros2-control-controller-definition.md)
+  * [4-5-8. Gazebo 제어 환경 실행](pages/04-05-08-gazebo-control-execution.md)
 
 * [4-6. Real–Simulation 비교](pages/04-06-real-simulation-comparison.md)
   * [4-6-1. 실제 로봇과 시뮬레이션](pages/04-06-01-real-robot-and-simulation.md)
